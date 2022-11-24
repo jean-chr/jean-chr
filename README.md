@@ -148,4 +148,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Merci <a href="#" target="_blank">Github Profilinator</a></div>
+<div align="center">Merci <a href="#" target="_blank">Github</a></div>

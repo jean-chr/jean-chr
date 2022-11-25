@@ -127,9 +127,8 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<br/> 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwu3d0xwfq3rl7ejdnmb4jais&cover_image=true&theme=default&show_offline=false&background_color=121212" align="left" style="width: 100%" />  
 
 <br/>  
 

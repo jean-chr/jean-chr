@@ -113,44 +113,34 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 
 <br/>  
 
+## Github Statistiques  
+<table><tr><td valign="top" width="50%">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-chr&hide_border=true&layout=compact" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=jean-chr&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jean-chr&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</td><td valign="top" width="50%">
 
-<br/>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-chr&hide_border=true&layout=compact" align="right" /></div>
 
+</td></tr></table>  
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/> 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwu3d0xwfq3rl7ejdnmb4jais&cover_image=true&theme=default&show_offline=false&background_color=121212" align="left" style="width: 100%" />  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jean-chr&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=jean-chr&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Jeantracke" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/jeantracke" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>  
-
-<br/>  
-
-
+            </a></div>
 <br />
 
 ----
-<div align="center">Merci <a href="#" target="_blank">Github</a></div>
+<div align="center">Merci<a href="#" target="_blank">Github </a></div>

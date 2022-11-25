@@ -3,20 +3,8 @@
 </div>  
   
 
-### <div align="center">Je suis Jean-Christ, un développeur freelance full-stack à temps plein 👨‍💻 travaillant à distance depuis 2021🚀</div>  
-  
+## <div align="center">Je suis Jean-Christ, un développeur freelance full-stack à temps plein 👨‍💻 travaillant à distance depuis 2021🚀</div>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
  
@@ -25,13 +13,24 @@ Je suis un développeur full-stack qui a transformé des années de freelance en
 
 Je me spécialise dans la création de backends robustes qui font tout le gros du travail pour votre application ou votre site Web. J’aime concevoir des systèmes légers mais puissants, distribués mais synchronisés et beaux et efficaces. Je blogue aussi fréquemment sur le monde derrière l’écran qui implique la conception de systèmes, les bases de données, la sécurité, les serveurs, l’optimisation et aussi des technologies prometteuses comme Blockchain et PWA.
 
-<br/>  
 
+
+- 🔭 Mes repertoires [](https://github.com/jean-chr/)  
+  
+
+- 🌱Recherche de plus de competences pour ameliorer 
+  
+
+- ❓ Posez-moi des question ou proposez-moi des idées sur les  technologies  
+  
+
+- ⚡ Fun fact: J'aimes des nouvelles choses plus perfonantes 
+
+
+<br/>  
 
 ## Langages et outils 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -56,8 +55,7 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 
 
 ### Backend  
-<div align="center">  
-
+<div align="center">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>   
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -93,7 +91,7 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 <br/>  
 
 
-## Connect with me  
+## Connectez-vous avec moi
 <div align="center">
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />

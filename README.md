@@ -96,7 +96,7 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 <a href="https://twitter.com/jeantracke" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jeantracke" target="_blank">
+<a href="https://www.linkedin.com/in/jean-christ-bodjona-953655205/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/jeantracke13" target="_blank">
@@ -143,4 +143,4 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 <br />
 
 ----
-<div align="center">Merci<a href="#" target="_blank">Github </a></div>
+<div align="center"> Merci <a href="#" target="_blank"> Github </a></div>

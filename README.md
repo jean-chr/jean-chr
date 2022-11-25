@@ -19,9 +19,16 @@
   
 
 <br/>  
+ 
+### Heureux de vous voir ici!
+Je suis un développeur full-stack qui a transformé des années de freelance en une carrière à temps plein. Être une pile complète me permet non seulement de développer des applications et des sites Web orientés client, mais aussi de les développer avec un support backend de pointe.
+
+Je me spécialise dans la création de backends robustes qui font tout le gros du travail pour votre application ou votre site Web. J’aime concevoir des systèmes légers mais puissants, distribués mais synchronisés et beaux et efficaces. Je blogue aussi fréquemment sur le monde derrière l’écran qui implique la conception de systèmes, les bases de données, la sécurité, les serveurs, l’optimisation et aussi des technologies prometteuses comme Blockchain et PWA.
+
+<br/>  
 
 
-## My Skill Set  
+## Langages et outils 
 <table><tr><td valign="top" width="33%">
 
 

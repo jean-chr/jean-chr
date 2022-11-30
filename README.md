@@ -13,7 +13,7 @@ Je suis un développeur full-stack qui a transformé des années de freelance en
 
 Je me spécialise dans la création de backends robustes qui font tout le gros du travail pour votre application ou votre site Web. J’aime concevoir des systèmes légers mais puissants, distribués mais synchronisés et beaux et efficaces. Je blogue aussi fréquemment sur le monde derrière l’écran qui implique la conception de systèmes, les bases de données, la sécurité, les serveurs, l’optimisation et aussi des technologies prometteuses comme Blockchain et PWA.
 
-
+<IMG SRC="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🔭 Mes repertoires [](https://github.com/jean-chr/)  
   
@@ -144,3 +144,4 @@ Je me spécialise dans la création de backends robustes qui font tout le gros d
 
 ----
 <div align="center"> Merci <a href="#" target="_blank"> Github </a></div>
+
